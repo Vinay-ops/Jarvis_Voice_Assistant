@@ -127,6 +127,7 @@ Feel free to modify and expand Jarvis for personal projects.
 
 ## 💡 Author
 
-**Your Name Here**  
+Vinay Krishna Bhogal
+
 Developed using Python & CustomTkinter.
 
